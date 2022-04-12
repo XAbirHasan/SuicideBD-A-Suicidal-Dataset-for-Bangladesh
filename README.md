@@ -11,6 +11,8 @@ It includes:
 
 **Use google colab for better visual experience.**
 
+all the file paths on the code here you need to update that.
+
 ## Authors
 
 **AbirHasan**
